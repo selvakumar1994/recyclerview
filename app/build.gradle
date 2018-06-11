@@ -8,8 +8,8 @@ android {
     applicationId "com.sqisland.android.recyclerview"
     minSdkVersion 7
     targetSdkVersion 22   
-     versionCode 32
-        versionName "3.2."
+     versionCode 33
+        versionName "3.3."
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         
   }
